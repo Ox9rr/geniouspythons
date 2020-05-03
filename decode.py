@@ -7,7 +7,7 @@ print(xtestSplit[35])
 # x = f.readlines()
 # print(len(x))
 
-
+# sosi 4len
 # def pars (count):
 #     f = open('test.txt','r')
 #     xtest = f.readlines()
