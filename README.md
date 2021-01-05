@@ -1,2 +1,2 @@
 # geniouspythons
-lohi zdes'
+zdes'
